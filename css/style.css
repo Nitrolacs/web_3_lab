@@ -21,6 +21,17 @@ body {
 	background-size: 100%;
 }
 
+div#link_1 {
+	position: relative;
+}
+
+#info {
+	position: absolute;
+	width: 173px;
+	top: 20px;
+	right: 0;
+}
+
 #link_2 {
 	font-family: monospace, 'Courier New';
 }
