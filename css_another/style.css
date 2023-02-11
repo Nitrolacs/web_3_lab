@@ -21,8 +21,33 @@ body {
 	background-size: 100%;
 }
 
+div#link_1 {
+	position: relative;
+}
+
+#info {
+	position: absolute;
+	width: 173px;
+	top: 20px;
+	right: 0;
+}
+
 #link_2 {
 	font-family: monospace, 'Courier New';
+}
+
+#container {
+	position: relative;
+}
+
+#div-1a {
+	float: left;
+	width: 600px;
+}
+
+#div-1b {
+	float: right;
+	width:  600px;
 }
 
 h3.mono {
@@ -207,5 +232,6 @@ ul {
 }
 
 img {
-	border-radius: 4%;
+	border-radius: 20px;
+	padding: 10px;
 }

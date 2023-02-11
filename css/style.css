@@ -36,6 +36,20 @@ div#link_1 {
 	font-family: monospace, 'Courier New';
 }
 
+#container {
+	position: relative;
+}
+
+#div-1a {
+	float: left;
+	width: 600px;
+}
+
+#div-1b {
+	float: right;
+	width:  600px;
+}
+
 h3.mono {
 	font-family: monospace, 'Courier New';
 	font-size: 20px;
@@ -211,6 +225,6 @@ ul {
 }
 
 img {
-	border-radius: 4%;
+	border-radius: 20px;
 	padding: 10px;
 }
