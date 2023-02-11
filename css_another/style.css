@@ -60,6 +60,14 @@ div.center {
 	align-items: center;
 }
 
+a#button_up {
+	font-size: 2em;
+	position: fixed;
+	bottom: 60px;
+	right: 70px;
+	color: black;
+}
+
 .hr-dashed-gradient {
 	margin-top: 137px;
 	margin-bottom: 20px;
